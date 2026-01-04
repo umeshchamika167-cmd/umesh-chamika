@@ -8,7 +8,7 @@ I am a Undegraduate Software Developer from Sri Lanka
   <img src="https://avatars.githubusercontent.com/umeshchamika167-cmd" width="200" style="border-radius:50%" />
 </p>
 <p align="center">
-  <a href="mailto:umeshchamika167@gmail.com"><img src="https://img.shields.io/badge/Email-orange"></a>
+  <a href="mailto:umeshchamika167@gmail.com"><img src="https://img.shields.io/badge/Email-orange"></a>  
   <a href="www.linkedin.com/in/umesh-chamika-223621229"><img src="https://img.shields.io/badge/LinkedIn-blue"></a>
 </p>
 ### 📍 About Me
